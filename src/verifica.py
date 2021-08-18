@@ -18,8 +18,6 @@ def load_obj(name ):
 def webhook():
     weburl = ""
 
-    url = "<your url>" #webhook url, from here: https://i.imgur.com/f9XnAew.png
-
     #for all params, see https://discordapp.com/developers/docs/resources/webhook#execute-webhook
     data = {
         "content" : "RFB Atualizada! Iniciando Download.",
