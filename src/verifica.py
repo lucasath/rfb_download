@@ -16,7 +16,7 @@ def load_obj(name ):
         return pickle.load(f)
 
 def webhook():
-    weburl = "https://discord.com/api/webhooks/877627532848017469/EwhrlxUJxcEIzMpQqaX5dvz0Leeujo0TcdIg8s-pF_cPPBtA9vkZeIiNmF6DdCONJFdE"
+    weburl = ""
 
     url = "<your url>" #webhook url, from here: https://i.imgur.com/f9XnAew.png
 
